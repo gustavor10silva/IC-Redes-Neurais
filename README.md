@@ -1,2 +1,2 @@
 # IC-Redes-Neurais
-Este repositório armazena os estudos de Redes Neurais realizados durante a Iniciação Científica desenvolvida no grupo CiDAMO. A mesma tem orientação do Prof.º Lucas Pedroso.
+Este repositório armazena os estudos da pesquisa em Redes Neurais realizados em forma de Iniciação Científica. A mesma tem orientação do Prof.º Lucas Pedroso e está sendo desenvolvida no grupo CiDAMO.
